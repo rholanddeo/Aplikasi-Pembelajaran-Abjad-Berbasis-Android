@@ -1,6 +1,7 @@
 # Aplikasi-Pembelajaran-Abjad-Berbasis-Android
 
 link apk : https://drive.google.com/file/d/1Xk06roeUAP2NnfYgEgc6bxGZCuJ_RQm9/view?usp=sharing
+artikel : https://www.researchgate.net/publication/366848134_Rancang_Bangun_Aplikasi_Pembelajaran_dan_Latihan_Mengenal_Abjad_Berbasis_Android_Menggunakan_Metode_Pengembangan_Design_Thinking
 
 ![image](https://user-images.githubusercontent.com/121206148/211189740-431f3844-c56f-4f76-828c-e6a3b8f6b374.png)
 ![image](https://user-images.githubusercontent.com/121206148/211189746-89070209-abed-40b6-a476-e4f8d82192aa.png)
