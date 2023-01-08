@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 689ed58511b8046438cf2fc7a7a096b1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dimbo
+  fontNames:
+  - Dimbo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 12e03553eb2fe5b49a388766730fb9ff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

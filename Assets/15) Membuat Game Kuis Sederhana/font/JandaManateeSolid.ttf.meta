@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 438d5a5b83fe10f4095898153c9fa616
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 50
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Janda Manatee Solid
+  fontNames:
+  - Janda Manatee Solid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5f5dfae7785e9594f863a44ac8dd7a80, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
